@@ -34,6 +34,7 @@ class WelcomeScreen extends StatelessWidget {
     );
   }
 
+  //esto es para la prueba tecnica
   @override
   Widget build(BuildContext context) {
     WidgetsBinding.instance.addPostFrameCallback((_) {
